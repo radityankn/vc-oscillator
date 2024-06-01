@@ -2,19 +2,19 @@
 
 .option scale=10m
 
-X0 VPWR VCONT- w_1180_460# w_1180_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X1 w_1180_460# a_705_380# VGND VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X2 w_620_460# a_145_380# VGND VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X0 VPWR VCONT- a_985_380# w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X1 a_985_380# a_705_380# VGND VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X2 a_425_380# a_145_380# VGND VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X3 VGND a_705_380# sky130_fd_pr__cap_mim_m3_1 l=1000 w=1000
-X4 w_1180_460# a_705_380# w_340_460# w_340_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X5 w_620_460# a_145_380# w_340_460# w_340_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X4 a_985_380# a_705_380# w_60_460# w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X5 a_425_380# a_145_380# w_60_460# w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X6 OUT VPWR VGND VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X7 a_705_380# VCONT+ w_620_460# VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X7 a_705_380# VCONT+ a_425_380# VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X8 a_145_380# VCONT+ OUT VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X9 VGND VPWR sky130_fd_pr__cap_mim_m3_1 l=1000 w=1000
-X10 OUT VPWR w_340_460# w_340_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X11 a_705_380# VCONT- w_620_460# w_620_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X10 OUT VPWR w_60_460# w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X11 a_705_380# VCONT- a_425_380# w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X12 VGND a_145_380# sky130_fd_pr__cap_mim_m3_1 l=1000 w=1000
-X13 a_145_380# VCONT- OUT OUT sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
-X14 VPWR VCONT+ w_1180_460# VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X13 a_145_380# VCONT- OUT w_60_460# sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+X14 VPWR VCONT+ a_985_380# VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 
