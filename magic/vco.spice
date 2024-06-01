@@ -17,3 +17,4 @@ X11 a_705_380# VCONT- a_425_380# VPWR sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m
 X12 VGND a_145_380# sky130_fd_pr__cap_mim_m3_1 l=1000 w=1000
 X13 a_145_380# VCONT- OUT VPWR sky130_fd_pr__pfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
 X14 a_1265_380# VCONT+ a_985_380# VGND sky130_fd_pr__nfet_01v8 ad=2.025n pd=0.18m as=2.025n ps=0.18m w=45 l=20
+
